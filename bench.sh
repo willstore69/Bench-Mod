@@ -71,9 +71,13 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '7582' 'Telkomsel, ID'
-    speed_test '37744' 'Telkomsel, SG'
-    speed_test '13039' 'Indosat, ID'
+    speed_test '7582' 'Tsel-Jkt, ID'
+    speed_test '1371' 'Tsel-Btm, ID'
+    speed_test '2233' 'Tsel-Sby, ID'
+    speed_test '37744' 'Tsel-Telin, SG'
+    speed_test '13039' 'Indosat-Jkt, ID'
+    speed_test '39334' 'Indosat-Mdn, ID'
+    speed_test '36700' 'Indosat-Sby, ID'
     speed_test '5168' 'Indosat, SG'
     speed_test '41805' 'XL, ID'
     speed_test '41806' 'XL, SG'
