@@ -8,7 +8,7 @@ BenchMod Multi Speedtest Provider Local Indonesia
 - Indosat - Surabaya (sby)
 - XL ID - Jakarta
 
-And Other Regions Like SG, NL & JP
+And Other Country Like SG, NL & JP
 
 Link ↓
 ```
