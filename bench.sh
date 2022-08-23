@@ -224,7 +224,7 @@ install_speedtest() {
         mkdir -p speedtest-cli && tar zxf speedtest.tgz -C ./speedtest-cli && chmod +x ./speedtest-cli/speedtest
         rm -f speedtest.tgz
     fi
-    printf "%-18s%-18s%-20s%-12s\n" " Node Name"   "Upload Speed"   "Download Speed"  "Latency"
+    printf "%-18s%-18s%-20s%-12s\n" " Node Name"   "Upload Speed"   "Download Speed" "Latency"
 }
 
 print_intro() {
